@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twitch-irc-client-pwa/precache-manifest.ded09c95bfd34f6f1c11ed54017bae1c.js"
+  "/tirc/precache-manifest.065eb0e38f2829028a14f016551722fa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "twitch-irc-client-pwa"});
